@@ -1,0 +1,10 @@
+{
+  "name": "@web3-project-template/lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.1",
+    "wagmi": "^0.6.6"
+  }
+}
