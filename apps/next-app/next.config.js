@@ -2,7 +2,7 @@
 
 const withTM = require("next-transpile-modules")([
   "@web3-project-template/lib",
-  "@web3-project-template/contracts"
+  "@web3-project-template/smart-contracts"
 ])
 
 const nextConfig = withTM({
